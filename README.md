@@ -1,0 +1,1 @@
+This repository has two problems, the Pascal's Triangle problem and the Spiral Matrix problem. In Pascal's triangle, each number is the sum of the two numbers directly above it. The Spiral Matrix problem you are given a matrix of m * n and return all elements of the matrix in spiral order.
